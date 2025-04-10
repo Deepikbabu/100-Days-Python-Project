@@ -1,4 +1,4 @@
-**100 Days of Python Coding Challenge**
+## 100 Days of Python Coding Challenge
 
 **Welcome to my journey of completing the 100 Days of Code challenge! Over the next 100 days, I’ll be diving deep into Python with a focus on building a professional-level understanding of the language, covering both foundational topics and advanced concepts. Below is the full syllabus I’m following during this challenge:**
 
