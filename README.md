@@ -148,10 +148,4 @@ Throughout the course, I will also be building various projects to showcase my s
 
 ---
 
-## Follow Along and Support
-
-This project is part of the **100 Days of Code** challenge by **App Brewery**. For more details, you can visit the [App Brewery website](https://www.appbrewery.co).
-
----
-
-Feel free to modify this further as per your needs. It’s structured to make it easy for anyone to follow your journey throughout the 100 days of Python learning!
+ **Lets code !!!!!**
